@@ -32,7 +32,7 @@ https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&l
 ---
 <p align = "center">
   <a href="https://github.com/itsDnz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsDnz&layout=compact&theme=dark"/></a> 
-  <a href="https://github.com/itsDnz"><img src="https://github-readme-stats.vercel.app/api?username=felipesantos10&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="itsDnz"/></a>
+  <a href="https://github.com/itsDnz"><img src="https://github-readme-stats.vercel.app/api?username=itsDnz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="itsDnz"/></a>
 </p> 
 
 
