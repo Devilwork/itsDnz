@@ -2,7 +2,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-itsdnz1-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/itsdnz1/)](https://www.instagram.com/itsdnz1/)
 
 
-### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária como programador. 🏆
+### Seja bem vindo ao meu repositório! 👋 
+### aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária como programador. 🏆
 
 <details>
 <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
