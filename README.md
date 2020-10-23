@@ -30,6 +30,7 @@ estou sempre querendo evoluir mais e sempre estudando.
 
 ### 👀 Estou interessado
 ![Go](https://img.shields.io/badge/-Go-69d7e2?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
 ---
 <p align = "center">
   <a href="https://github.com/itsDnz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsDnz&layout=compact&theme=dark"/></a> 
