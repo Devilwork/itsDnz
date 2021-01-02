@@ -1,5 +1,6 @@
 # :man_technologist: Diniz
 [![Instagram Badge](https://img.shields.io/badge/-itsdnz1-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/itsdnz1/)](https://www.instagram.com/itsdnz1/)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 ### Seja bem vindo ao meu repositório! 👋 
